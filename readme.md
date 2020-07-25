@@ -22,7 +22,7 @@
 
 本工程将尝试用4种思路对数据进行建模，并对得到的结果进行比较。
 
-### 2.1 TF-IDF + SVM
+### 2.1 TF-IDF + ML Classifier
 直接使用TF-IDF对文本提取特征，并使用SVM方法进行分类。
 
 ### 2.2 FastText
